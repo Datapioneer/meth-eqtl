@@ -1,5 +1,5 @@
 # meth-eqtl
-For simplicity, I have upload 1o 10 example gene files for demonstration. 
+For simplicity, I uploaded 10 genes for demonstration. 
 
 1, The Rds objects in "TCGAdata" directory are the cpg probe flanking on either end of each gene within 500 kb. 
 
