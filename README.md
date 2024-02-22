@@ -1,8 +1,7 @@
 # meth-eqtl
-For simplicity, I uploaded 10 genes for demonstration. 
+This time picked 1 gene for demonstration. 
 
-1, The Rds objects in "TCGAdata" directory are the cpg probe flanking on either end of each gene within 500 kb. 
+1, RData object is cpg info with lasso coefficients and selection probabilities.
+2, "Select_prob.RDs" has also been updated. 
 
-2, "Select_prob.RDs" are the probability for every distance from a gene. This file corresponds to the one named "crc_select_prob.Rds" from your supplementary file. 
 
-3, The Rds objects in "Preliminary" directory are the same as the ones from "TCGAdata" directory only with selection probability information for each CpG probe.
